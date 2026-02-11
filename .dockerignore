@@ -1,0 +1,17 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.pt
+*.pth
+*.ckpt
+docker-compose.yml
